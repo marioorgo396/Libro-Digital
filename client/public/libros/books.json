@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": "filosofia-bachillerato",
+      "title": "Apuntes Filosofía 2º Bachillerato",
+      "author": "Todos los autores",
+      "description": "Apuntes completos de Filosofía para 2º de Bachillerato: Política, Ética, Ser Humano, Dios, Conocimiento y Realidad",
+      "cover": null,
+      "file": "filosofia-bachillerato.pdf",
+      "license": "FILO2024"
+    },
+    {
+      "id": "Filo 1ºEVAL",
+      "title": "Material Ampliación",
+      "author": "Platón, Aristoteles, h.ardent, kant",
+      "description": "Apuntes completos de Política según Platón",
+      "cover": null,
+      "file": "Filo 1ºEVAL.pdf",
+      "license": "PLATON2025"
+    }
+  ],
+  "instructions": {
+    "es": "Para añadir un nuevo libro: 1) Copia el archivo PDF a esta carpeta 'libros/', 2) Añade una nueva entrada en el array 'books' con los campos: id (identificador único), title (título), author (autor), description (descripción), cover (imagen de portada o null), file (nombre del archivo PDF), license (código de licencia para acceder al libro)"
+  }
+}
